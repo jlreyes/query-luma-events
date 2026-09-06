@@ -1,6 +1,7 @@
 ---
 name: query-luma-events
 description: Query Luma's public, read-only event discovery surface without an API key. Use when Codex needs to find upcoming Luma events by city, category, keyword, date, price, availability, or calendar; inspect a specific Luma event; resolve a luma.com/lu.ma slug or URL; or list Luma discovery places and categories.
+license: MIT
 ---
 
 # Query Luma Events

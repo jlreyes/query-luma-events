@@ -61,5 +61,4 @@ results accordingly.
 
 ## License
 
-No license is currently granted. The source is public for inspection; reuse or
-redistribution requires permission from the copyright holder.
+[MIT](LICENSE)
