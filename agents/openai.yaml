@@ -1,0 +1,4 @@
+interface:
+  display_name: "Query Luma Events"
+  short_description: "Find and inspect public Luma events"
+  default_prompt: "Use $query-luma-events to find upcoming Luma events in New York about AI."
